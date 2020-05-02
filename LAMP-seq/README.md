@@ -1,1 +1,1 @@
-Notebooks for processing, analysis and testing of SwabSeq samples.
+Notebooks for processing, analysis and testing of LAMP-seq samples.
